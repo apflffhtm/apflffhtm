@@ -43,11 +43,8 @@
   alias        elba.code  ·  dev.code10
   role         Web Developer  +  Security Researcher
   team         영주고등학교 정보보안팀 ZeroDay
-  lead         DevCREW 웹 개발팀 Founder / Team Lead  (≈30명 · 8팀)
   based        Jeju, South Korea
   focus        Web Security · Access Control · Pentest · Full-stack Web
-  license      정보기기운용기능사 (국가기술자격)
-  motto        "secure by design, built for users"
 
 └─$ _
 ```
