@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="490" viewBox="0 0 1400 490" role="img" aria-labelledby="title desc">
+  <title id="title">HOON - Offensive Security and Full-Stack Engineering</title>
+  <desc id="desc">Custom cyberpunk HUD profile banner in emerald green on a black background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050A0B"/>
+      <stop offset="0.55" stop-color="#071217"/>
+      <stop offset="1" stop-color="#05070B"/>
+    </linearGradient>
+    <linearGradient id="titleGradient" x1="0" x2="1">
+      <stop offset="0" stop-color="#D8FFE9"/>
+      <stop offset="0.60" stop-color="#7DFFC4"/>
+      <stop offset="1" stop-color="#15D785"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#42F6AB" stop-opacity="0"/>
+      <stop offset="0.40" stop-color="#42F6AB" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#42F6AB" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#00F59B" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#00F59B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1B5144" stroke-width=".7" stroke-opacity=".28"/>
+    </pattern>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".8" fill="#46DCA5" opacity=".24"/>
+    </pattern>
+    <clipPath id="outer">
+      <rect x="1" y="1" width="1398" height="488" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outer)">
+    <rect width="1400" height="490" fill="url(#bg)"/>
+    <rect width="1400" height="490" fill="url(#grid)"/>
+    <rect x="830" y="20" width="570" height="470" fill="url(#dots)" opacity=".60"/>
+    <ellipse cx="1085" cy="253" rx="380" ry="350" fill="url(#glow)"/>
+    <path d="M0 0H1400V490H0Z" fill="none" stroke="#124638" stroke-width="2"/>
+
+    <!-- Header + status markers -->
+    <path d="M58 68H231" stroke="#39FFAA" stroke-width="3"/>
+    <rect x="58" y="35" width="12" height="12" rx="2" fill="#34EF9D"/>
+    <rect x="79" y="35" width="12" height="12" rx="2" fill="#2D6A55"/>
+    <rect x="100" y="35" width="12" height="12" rx="2" fill="#2D6A55"/>
+    <text x="130" y="45" fill="#86DBB6" font-family="monospace" font-size="17" letter-spacing="2.1">SHXN.DEV / INDEX</text>
+    <text x="1338" y="46" text-anchor="end" fill="#51B28B" font-family="monospace" font-size="15" letter-spacing="1.4">ACCESS://PUBLIC</text>
+    <path d="M58 82H1342" stroke="#1E5E48" stroke-width="1" opacity=".65"/>
+
+    <!-- Main hero copy -->
+    <text x="59" y="153" fill="#58F7B0" font-family="monospace" font-size="19" letter-spacing="5">[ RESEARCHER IDENTITY ]</text>
+    <text x="50" y="292" fill="url(#titleGradient)" font-family="Arial, Helvetica, sans-serif" font-size="151" font-weight="900" letter-spacing="-12">HOON<tspan fill="#27F39C">.</tspan></text>
+    <rect x="59" y="316" width="35" height="6" rx="2" fill="#37F2A0"/>
+    <text x="106" y="325" fill="#D0FCE4" font-family="monospace" font-weight="700" font-size="23" letter-spacing="2.0">OFFENSIVE SECURITY</text>
+    <text x="59" y="366" fill="#69BCA0" font-family="monospace" font-size="18" letter-spacing="2.8">FULL-STACK DEVELOPMENT  /  VULNERABILITY RESEARCH</text>
+    <path d="M59 397H785" stroke="url(#line)" stroke-width="2"/>
+
+    <!-- right hand science-fiction reticle -->
+    <g transform="translate(1136 260)">
+      <circle r="185" fill="none" stroke="#1A5D4A" stroke-width="1" stroke-dasharray="5 9"/>
+      <circle r="155" fill="none" stroke="#195842" stroke-width="1"/>
+      <circle r="127" fill="none" stroke="#24F3A0" stroke-width="3" stroke-dasharray="145 26 35 105 90 40 30 130" opacity=".9" transform="rotate(-28)"/>
+      <circle r="101" fill="none" stroke="#369D7C" stroke-width="1" stroke-dasharray="2 8"/>
+      <circle r="78" fill="#0A241D" fill-opacity=".75" stroke="#41D99E" stroke-width="1.8"/>
+      <circle r="59" fill="none" stroke="#1A6E51" stroke-width="1"/>
+      <path d="M-211 0H-82 M82 0H211 M0 -209V-82 M0 82V209" stroke="#59E5A9" stroke-width="1.3" opacity=".75"/>
+      <path d="M-23 -10L-4 9L31 -26" fill="none" stroke="#5AFFB6" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+      <circle r="8" fill="#56FFB6"/>
+      <text x="0" y="116" text-anchor="middle" fill="#A0FFD1" font-family="monospace" font-size="12" letter-spacing="2.6">SYSTEM ONLINE</text>
+      <text x="0" y="-102" text-anchor="middle" fill="#66CCA0" font-family="monospace" font-size="11" letter-spacing="3.0">0x1337</text>
+      <path d="M-160 -110L-195 -145H-235 M147 105L186 145H229" fill="none" stroke="#2EBE87" stroke-width="1.3"/>
+      <circle cx="-235" cy="-145" r="4" fill="#38ED9E"/>
+      <circle cx="229" cy="145" r="4" fill="#38ED9E"/>
+    </g>
+
+    <!-- Bottom HUD strip -->
+    <path d="M58 421H1342" stroke="#1D5B48" stroke-width="1"/>
+    <text x="59" y="455" fill="#7CDFB0" font-family="monospace" font-size="15" letter-spacing="1.5">STATUS</text>
+    <circle cx="136" cy="451" r="5" fill="#4AFFAE"/>
+    <text x="152" y="455" fill="#C9FFE6" font-family="monospace" font-size="15" letter-spacing="1.3">ACTIVE</text>
+    <text x="486" y="455" fill="#75BFA2" font-family="monospace" font-size="15" letter-spacing="1.6">BUILD  //  BREAK  //  SECURE</text>
+    <text x="1339" y="455" text-anchor="end" fill="#6ADCA9" font-family="monospace" font-size="15" letter-spacing="1.4">EOF_</text>
+
+    <!-- corner brackets -->
+    <path d="M26 92V23H95 M1374 92V23H1305 M26 398V467H95 M1374 398V467H1305" fill="none" stroke="#3DDA9A" stroke-width="1.5" opacity=".75"/>
+  </g>
+</svg>
