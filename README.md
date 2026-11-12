@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**apflffhtm/apflffhtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hello, I'm Hoon 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Developer & Security Researcher
+
+Building secure systems. Breaking assumptions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shxn.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shxn.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-apflffhtm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apflffhtm)
+
+</div>
+
+---
+
+### About Me
+
+- 🔐 Interested in Web Security & Vulnerability Research
+- 💻 Full-Stack Web Developer
+- 🏴 CTF Player & Security Researcher
+- 🛡️ Exploring CVEs and Responsible Disclosure
+- 🚀 Passionate about building secure applications
+
+### Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+
+</div>
+
+### Security Research
+
+```text
+Areas of Interest
+├── Web Application Security
+├── Vulnerability Research
+├── CTF & Exploit Development
+├── Open Source Security
+└── Responsible Disclosure
+```
+
+### Connect
+
+- 🌐 Portfolio: https://shxn.dev
+- 💻 GitHub: https://github.com/apflffhtm
+
+---
+
+<div align="center">
+
+*Code. Research. Secure.*
+
+</div>
