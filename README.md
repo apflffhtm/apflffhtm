@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/CVE-5-D73232?style=flat-square&labelColor=0C0909" />
+<img src="https://img.shields.io/badge/CVE-6-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/GHSA-1-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/Awards-10-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/Team-ZeroDay-D73232?style=flat-square&labelColor=0C0909" />
@@ -59,6 +59,7 @@
 
 | ID | Target | Type | Impact | Date |
 | :-- | :-- | :-- | :-- | :--: |
+| [**CVE-2026-129037**](https://www.cve.org/CVERecord?id=CVE-2026-129037) | WP Job Portal `2.9.0에서 수정` | Reflected XSS | 비로그인 공격자가 `jobid`를 통해 스크립트 삽입 · 조작된 링크 열람 시 실행 | 2026.11 |
 | [**CVE-2026-124418**](https://patchstack.com/database/wordpress/plugin/wp-job-portal/vulnerability/wordpress-wp-job-portal-plugin-2-7-2-cross-site-scripting-xss-vulnerability) | WP Job Portal `≤ 2.7.2` | Stored XSS | 구독자가 삽입한 스크립트가 관리자 브라우저에서 실행 | 2026.11 |
 | [**CVE-2026-124417**](https://patchstack.com/database/wordpress/plugin/wp-job-portal/vulnerability/wordpress-wp-job-portal-plugin-2-7-2-broken-access-control-vulnerability-3) | WP Job Portal `≤ 2.7.2` | Broken Access Control | 다른 사용자의 비공개 정보 열람·수정 | 2026.11 |
 | [**CVE-2026-121575**](https://patchstack.com/database/wordpress/plugin/wp-user-manager/vulnerability/wordpress-wp-user-manager-plugin-2-10-4-broken-access-control-vulnerability) | WP User Manager `≤ 2.10.4` | Broken Access Control | 미결제 사용자가 제한 콘텐츠 열람 | 2026.11 |
@@ -178,7 +179,7 @@ AI가 사용자 맞춤형 CTF 문제와 강좌를 만들어 주는 정보보안 
 ## `// 05. Timeline`
 
 ```yaml
-2026.11:  CVE-2026-124418 · CVE-2026-124417 · CVE-2026-121575 발급
+2026.11:  CVE-2026-129037 · CVE-2026-124418 · CVE-2026-124417 · CVE-2026-121575 발급
           호남지역 정보보호 해커톤 — 대학/고등부 3위 (KISA 원장상)
           JOIN 2026 제주지역창업페스티벌
 2026.10:  CVE-2026-52708 · CVE-2026-25450 발급
