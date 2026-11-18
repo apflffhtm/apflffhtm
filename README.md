@@ -22,7 +22,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/CVE-6-D73232?style=flat-square&labelColor=0C0909" />
-<img src="https://img.shields.io/badge/GHSA-1-D73232?style=flat-square&labelColor=0C0909" />
+<img src="https://img.shields.io/badge/GHSA-2-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/Awards-10-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/Team-ZeroDay-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://komarev.com/ghpvc/?username=apflffhtm&label=Views&color=d73232&style=flat-square&labelColor=0c0909" />
@@ -65,6 +65,7 @@
 | [**CVE-2026-121575**](https://patchstack.com/database/wordpress/plugin/wp-user-manager/vulnerability/wordpress-wp-user-manager-plugin-2-10-4-broken-access-control-vulnerability) | WP User Manager `≤ 2.10.4` | Broken Access Control | 미결제 사용자가 제한 콘텐츠 열람 | 2026.11 |
 | [**CVE-2026-52708**](https://patchstack.com/database/wordpress/plugin/wp-user-frontend/vulnerability/wordpress-wp-user-frontend-plugin-4-3-13-broken-access-control-vulnerability-2) | WP User Frontend `≤ 4.3.13` | Broken Access Control | 결제 없이 유료 구독 활성화 | 2026.10 |
 | [**CVE-2026-25450**](https://patchstack.com/database/wordpress/plugin/user-registration/vulnerability/wordpress-user-registration-plugin-5-3-0-broken-access-control-vulnerability) | User Registration `≤ 5.3.0` | Broken Access Control | 비로그인 사용자가 결제 금액 조작 | 2026.10 |
+| [**GHSA-4rq7-f537-x35q**](https://github.com/sebhildebrandt/systeminformation/security/advisories/GHSA-4rq7-f537-x35q) | Node.js `systeminformation` `4.0.0–5.33.22` | Uncontrolled Search Path (CWE-427) | Windows에서 `require()` 시 현재 폴더의 `chcp.cmd`가 실행되어 사용자 권한 코드 실행 · `5.33.23` 수정 | 2026.11 |
 | [**GHSA-37g9-w4hg-h9qr**](https://github.com/websockets/ws/security/advisories/GHSA-37g9-w4hg-h9qr) | Node.js `ws` | DoS | Ping 폭주로 메모리 고갈 + 빈 Ping을 이용한 초기 패치 우회 | — |
 
 <br/>
@@ -180,6 +181,7 @@ AI가 사용자 맞춤형 CTF 문제와 강좌를 만들어 주는 정보보안 
 
 ```yaml
 2026.11:  CVE-2026-129037 · CVE-2026-124418 · CVE-2026-124417 · CVE-2026-121575 발급
+          GHSA-4rq7-f537-x35q 공개 — systeminformation 코드 실행 취약점 제보·패치 검증
           호남지역 정보보호 해커톤 — 대학/고등부 3위 (KISA 원장상)
           JOIN 2026 제주지역창업페스티벌
 2026.10:  CVE-2026-52708 · CVE-2026-25450 발급
