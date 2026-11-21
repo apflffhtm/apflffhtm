@@ -23,7 +23,7 @@
 
 <img src="https://img.shields.io/badge/CVE-8-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/GHSA-4-D73232?style=flat-square&labelColor=0C0909" />
-<img src="https://img.shields.io/badge/Awards-10-D73232?style=flat-square&labelColor=0C0909" />
+<img src="https://img.shields.io/badge/Awards-11-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://img.shields.io/badge/Team-ZeroDay-D73232?style=flat-square&labelColor=0C0909" />
 <img src="https://komarev.com/ghpvc/?username=apflffhtm&label=Views&color=d73232&style=flat-square&labelColor=0c0909" />
 
@@ -78,6 +78,7 @@
 
 | Year | Competition | Result | Host |
 | :--: | :-- | :-- | :-- |
+| 2026 | **Crate-CTF 2026** | 🏆 **종합 3위 · 대학/고등부 1위**<br><sub>Web · Reversing 담당 분야 전 문제 해결</sub> | 스웨덴 국방연구청(FOI) / 스웨덴 국군 |
 | 2026 | **호남지역 정보보호 해커톤 대회** | 🏆 **대학/고등부 3위** · 한국인터넷진흥원 원장상 | 과학기술정보통신부 |
 | 2026 | **제61회 전국기능경기대회** · 사이버보안 | 🏆 **전국 6위** · 장려상 | 한국산업인력공단 |
 | 2026 | **사이버공격방어대회** | **11위** | 국가정보원 / 국가보안기술연구소 |
@@ -85,7 +86,7 @@
 | 2026 | **GEEKs Hackathon 2026** | 🏆 **프론트엔드 1인 특별상** | 키키랩 |
 
 <details>
-<summary><b>전체 수상 보기 (10)</b></summary>
+<summary><b>전체 수상 보기 (11)</b></summary>
 <br/>
 
 | Year | Competition | Result | Host |
@@ -182,7 +183,8 @@ AI가 사용자 맞춤형 CTF 문제와 강좌를 만들어 주는 정보보안 
 ## `// 05. Timeline`
 
 ```yaml
-2026.11:  CVE-2026-129502 · CVE-2026-129500 발급 — Fastify WebSocket DoS 2건 제보·패치 검증
+2026.11:  Crate-CTF 2026 — 종합 3위 · 대학/고등부 1위 (Web·Reversing 담당 분야 전 문제 해결)
+           CVE-2026-129502 · CVE-2026-129500 발급 — Fastify WebSocket DoS 2건 제보·패치 검증
           CVE-2026-129037 · CVE-2026-124418 · CVE-2026-124417 · CVE-2026-121575 발급
           GHSA-4rq7-f537-x35q 공개 — systeminformation 코드 실행 취약점 제보·패치 검증
           호남지역 정보보호 해커톤 — 대학/고등부 3위 (KISA 원장상)
@@ -194,7 +196,7 @@ AI가 사용자 맞춤형 CTF 문제와 강좌를 만들어 주는 정보보안 
 ```
 
 <details>
-<summary><b>전체 타임라인 보기 (26)</b></summary>
+<summary><b>전체 타임라인 보기 (27)</b></summary>
 
 ```yaml
 2026.08:  사이버 가디언즈 CMX — 예선 통과
